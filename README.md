@@ -1,4 +1,4 @@
-##Aplicacion del Clima
+## Aplicacion del Clima
 
 Recuerden ejecutar el siguiente comando
 
@@ -6,7 +6,7 @@ Recuerden ejecutar el siguiente comando
 npm install
 ```
 
-###Ejemplo
+### Ejemplo
 
 ```
 node app -d "Guadalajara"
